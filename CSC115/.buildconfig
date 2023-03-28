@@ -1,0 +1,11 @@
+[default]
+name=Default
+runtime=host
+toolchain=gcc:/usr/lib64/ccache/aarch64-redhat-linux-gcc
+config-opts=
+run-opts=
+prefix=/home/salman/.cache/gnome-builder/install/CSC115/host
+app-id=
+postbuild=
+prebuild=
+default=true
